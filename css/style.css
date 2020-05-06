@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(46, 114, 160);
+    margin-left: 100px;
+    margin-right: 100px;    
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: rgb(26, 24, 22);
+    font-family: 'Jost', sans-serif;;
+}
+
+h2 {
+    font-family: 'Jost', sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 70px;
+}
